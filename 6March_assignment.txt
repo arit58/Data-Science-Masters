@@ -1,0 +1,73 @@
+Q1. What is Statistics? 
+Ans: Statistics is the science of collecting,organizing,analyzing and interpreting data.
+
+Q2. Define the different types of statistics and give an example of when each type might be used. 
+Ans: Descriptive Statistics:
+In this type of statistics, the data is summarised through the given observations. The summarisation is one from a sample of population using parameters such as the mean or standard deviation. Descriptive statistics is a way to organise, represent and describe a collection of data using tables, graphs, and summary measures. For example, the collection of people in a city using the internet or using Television.
+
+Inferential Statistics is a method that allows us to use information collected from a sample to make decisions, predictions or inferences from a population.
+
+Q3.  What are the different types of data and how do they differ from each other? Provide an example of  each type of data. 
+Ans: Qualitative or Categorical Data
+Qualitative data, also known as the categorical data, describes the data that fits into the categories. Qualitative data are not numerical. The categorical information involves categorical variables that describe the features such as a person’s gender, home town etc. Categorical measures are defined in terms of natural language specifications, but not in terms of numbers.
+
+Sometimes categorical data can hold numerical values (quantitative value), but those values do not have a mathematical sense. Examples of the categorical data are birthdate, favourite sport, school postcode. Here, the birthdate and school postcode hold the quantitative value, but it does not give numerical meaning.
+
+Nominal Data
+Nominal data is one of the types of qualitative information which helps to label the variables without providing the numerical value. Nominal data is also called the nominal scale. It cannot be ordered and measured. But sometimes, the data can be qualitative and quantitative. Examples of nominal data are letters, symbols, words, gender etc.
+
+The nominal data are examined using the grouping method. In this method, the data are grouped into categories, and then the frequency or the percentage of the data can be calculated. These data are visually represented using the pie charts.
+
+Ordinal Data
+Ordinal data/variable is a type of data that follows a natural order. The significant feature of the nominal data is that the difference between the data values is not determined. This variable is mostly found in surveys, finance, economics, questionnaires, and so on.
+
+The ordinal data is commonly represented using a bar chart. These data are investigated and interpreted through many visualisation tools. The information may be expressed using tables in which each row in the table shows the distinct category.
+
+Quantitative or Numerical Data
+Quantitative data is also known as numerical data which represents the numerical value (i.e., how much, how often, how many). Numerical data gives information about the quantities of a specific thing. Some examples of numerical data are height, length, size, weight, and so on. The quantitative data can be classified into two different types based on the data sets. The two different classifications of numerical data are discrete data and continuous data.
+
+Discrete Data
+Discrete data can take only discrete values. Discrete information contains only a finite number of possible values. Those values cannot be subdivided meaningfully. Here, things can be counted in whole numbers.
+
+Example: Number of students in the class
+
+Continuous Data
+Continuous data is data that can be calculated. It has an infinite number of probable values that can be selected within a given specific range.
+
+Example: Temperature range
+
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types: (i) Grading in exam: A+, A, B+, B, C+, C, D, E 
+(ii) Colour of mangoes: yellow, green, orange, red 
+(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...] 
+(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, …] 
+
+Ans: (i)- Ordinal data, (ii)- nominal data, (iii)- continuous data, (iv)-Discrete data
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level. 
+Ans: 
+There are 4 levels of measurement:
+
+Nominal: the data can only be categorized. Eg-Gender
+Ordinal: the data can be categorized and ranked. Eg- Top 5 Olympic medallists
+Interval: the data can be categorized, ranked, and evenly spaced. Eg- Temperature in Fahrenheit or Celsius
+Ratio: the data can be categorized, ranked, evenly spaced, and has a natural zero. Eg- Weight, Temperature in Kelvin
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide an  example to illustrate your answer. 
+
+First, knowing the level of measurement helps you decide how to interpret the data from that variable. When you know that a measure is nominal (like the one just described), then you know that the numerical values are just short codes for the longer names. Second, knowing the level of measurement helps you decide what statistical analysis is appropriate on the values that were assigned. If a measure is nominal, then you know that you would never average the data values or do a t-test on the data.
+
+Q7. How nominal data type is different from ordinal data type. 
+Ans: Nominal data is classified without a natural order or rank, whereas ordinal data has a predetermined or natural order
+
+Q8. Which type of plot can be used to display data in terms of range? 
+Ans: Histogram
+
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each  type of statistics and explain how they are used. 
+Ans:  Descriptive statistics is a way to organise, represent and describe a collection of data using tables, graphs, and summary measures. For example, the collection of people in a city using the internet or using Television.
+Inferential Statistics is a method that allows us to use information collected from a sample to make decisions, predictions or inferences from a population. Eg- Answering a question,like, does the average height of a class represent the average height of the entire school?
+
+
+Q10. What are some common measures of central tendency and variability used in statistics? Explain how each measure can be used to describe a dataset. 
+
+Ans: 
+      
